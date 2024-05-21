@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+button {
+  border: none;
+  height: 50px;
+  padding: 0 2rem;
+  margin: 0 2rem;
+}
+.h1color {
+  display: inline-block;
+  border-color: bisque;
+}

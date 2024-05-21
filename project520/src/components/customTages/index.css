@@ -1,0 +1,14 @@
+.tab-item {
+  background-color: rgb(115, 115, 115); /* 非选中的背景色 */
+  cursor: pointer;
+  padding: 10px;
+}
+
+.tab-item.active {
+  background-color: blue; /* 选中的背景色 */
+  color: rgb(9, 1, 1); /* 选中文本颜色 */
+}
+
+.wrapper .content {
+  color: red; /* 内容文本颜色 */
+}
